@@ -71,5 +71,5 @@ store.removeItem("Camiseta");
 console.log("Inventário do Armazém:");
 console.log(warehouse.getInventory());
 
-console.log("\nInventário da Loja:");
+console.log("Inventário da Loja:");
 console.log(store.getInventory());
